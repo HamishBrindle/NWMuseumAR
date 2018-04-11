@@ -1,23 +1,23 @@
 PODS:
   - Alamofire (4.6.0)
-  - ARCL (1.0.2)
   - CocoaLumberjack (3.4.1):
     - CocoaLumberjack/Default (= 3.4.1)
     - CocoaLumberjack/Extensions (= 3.4.1)
   - CocoaLumberjack/Default (3.4.1)
   - CocoaLumberjack/Extensions (3.4.1):
     - CocoaLumberjack/Default
+  - lottie-ios (2.5.0)
 
 DEPENDENCIES:
   - Alamofire
-  - ARCL
   - CocoaLumberjack
+  - lottie-ios
 
 SPEC CHECKSUMS:
   Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
-  ARCL: 88300cadfbdd6a9288ca17ad18d3ac972d6cb1e6
   CocoaLumberjack: 2e258a064cacc8eb9a2aca318e24d02a0a7fd56d
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
 
-PODFILE CHECKSUM: ca8994a64b605546e9a6ee2a84784b00ebd0e62c
+PODFILE CHECKSUM: 150f685de9158fd723ea50d362be59cae9aa8a8a
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.3.1
